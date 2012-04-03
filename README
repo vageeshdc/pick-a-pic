@@ -1,0 +1,7 @@
+This is a small android app that is used to take a pic and upload it to a remote host so that it can processes the image and tell you where you are from its database.
+The app has parts:one to take a pic and other to connect to remote host.
+
+Bugs:
+1. need to fix appcrash
+2. implement image upload feature
+
